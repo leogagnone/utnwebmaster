@@ -1,0 +1,22 @@
+*{margin: 0; padding: 0}
+
+.header1{
+  background: rgb(13, 129, 67);
+  color: white;
+  padding: 2%;
+}
+
+.header2{
+  background: rgb(8, 83, 43);
+  height: 60px;
+
+}
+
+.portada{
+  background: linear-gradient(5deg,rgb(69, 26, 126), rgb(125, 70, 190));
+  height: 300px;
+  margin-bottom: 5%;
+
+
+
+}
